@@ -1,0 +1,31 @@
+body {
+    background-color: green;
+    color: wheat;
+    text-align: center;
+    font-family: 'MedievalSharp', cursive;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    font-family: 'MedievalSharp', cursive;
+    border: ridge red 10px;
+    background: dimgrey;
+    width: 100%;
+    text-align: center;
+}
+
+a {
+    font-size: 30px;
+}
+
+input {
+    background-color: black;
+    color: antiquewhite;
+}
+
+button {
+    background-color: black;
+    color: antiquewhite;
+}
